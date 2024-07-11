@@ -1,0 +1,6 @@
+https://www.scopus.com/results/results.uri?sort=plf-f&src=s&st1=The+Journal+of+Educational+Measurement&sid=426fa195f3bbccb81083576afc55702c&sot=b&sdt=cl&sl=43&s=SRCTITLE%28journal+AND+of+AND+educational+AND+measurement%29&origin=resultslist&editSaveSearch=&yearFrom=2020&yearTo=2024&sessionSearchId=426fa195f3bbccb81083576afc55702c&limit=10&cluster=scosubtype%2C%22ar%22%2Ct
+
+Scopus에서 추출했는데
+JEM journal들은 paper 내에 keyword 쓰는 사람이 거의 없고 필수가 아닌듯
+1. 사이트 자체에서 보여주는 keyword어떻게든 추출하거나
+2. abstract에서 파이썬으로 추출하거나
